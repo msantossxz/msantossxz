@@ -2,7 +2,7 @@
 
 meu nome e yasmim   
 
-- estou estudando no alura
+- estou estudando no [Alura](https://www.alura.com.br)
 - estou me desenvolvendo na linguagem Java script
   - utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos 
 
