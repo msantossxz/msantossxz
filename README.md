@@ -10,6 +10,8 @@ meu nome e yasmim
 
 ys3534366@gmail.com 
 
-@yasaantosc 
 
-![image](https://github.com/user-attachments/assets/b73da570-5a33-44bd-806e-7eb2878cf247)
+
+![](https://github.com/user-attachments/assets/409cf3f5-5843-44c1-a471-06f9a50fe08c)
+
+
